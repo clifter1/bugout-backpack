@@ -88,6 +88,7 @@ The front compartment consists of important items that are easily accessible whe
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/front_items_individual.jpg)
 
 Items pack in containers or bags:
