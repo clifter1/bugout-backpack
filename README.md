@@ -1,6 +1,4 @@
 # Table of Contents
-This is a guide on making the perfect bugout backpack for camping or any emergency situation. 
-
 - [Todo](#todo)
 - [Organizational Items](#organization-tools)
 - [Backpack Selection](#backpack-and-storage)
