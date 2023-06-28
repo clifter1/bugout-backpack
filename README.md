@@ -92,9 +92,11 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/front_items_individual.jpg)
 
 Items pack in containers or bags:
+
 ![Screenshot of items wrapped up or bagged.](pictures/front_items.jpg)
 
 Items pack into the packpack:
+
 ![Screenshot of items packed in the packpack](pictures/front_items_packed.jpg)
 
 **NOTE**: The front area is packed to allow for easy access. To maximize the volume carries, this section could be filled with additional soft items like toilet paper or packaged [food](#food-selections).
@@ -121,6 +123,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/right_outer_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/right_outer_packed.jpg)
 
 
@@ -138,6 +141,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/left_outer_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/left_outer_packed.jpg)
 
 
@@ -156,6 +160,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/main_back_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/main_back_packed.jpg)
 
 
@@ -193,6 +198,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/main_front_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/main_front_packed.jpg)
 
 **NOTE**: The main compartment can be further filled to max capacity with either soft items (like
@@ -225,6 +231,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/top_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/top_packed.jpg)
 
 
@@ -241,6 +248,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/right_inner_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/right_inner_packed.jpg)
 
 
@@ -257,6 +265,7 @@ Individual Items:
 ![Screenshot of each item dissasembled.](pictures/left_inner_items.jpg)
 
 Items packed into the backpack:
+
 ![Screenshot of items packed in the packpack](pictures/left_inner_packed.jpg)
 
 
@@ -270,4 +279,5 @@ Below is a list of food that can be purchased that have a long shelf life, conde
 
 ## Item Pictures
 Sealed Meals:
+
 ![Screenshot of sealed full meals](pictures/food_1.jpg)
