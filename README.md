@@ -12,6 +12,7 @@ This is a guide on making the perfect bugout backpack for camping or any emergen
 9.  [Top Compartment](#top-compartment)
 10. [Right Inner Slot](#right-inner-slot)
 11. [Left Inner Slot](#left-inner-slot)
+12. [Food Selections](#food-selection)
 
 
 # Todo
