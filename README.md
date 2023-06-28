@@ -1,17 +1,17 @@
 # Table of Contents
 This is a guide on making the perfect bugout backpack for camping or any emergency situation. 
 
-1. [Todo](#todo)
-2. [Organizational Tools](#organization-tools)
-2. [Backpack Selection](#backpack-and-storage)
-3. [Front Compartment](#front-compartment)
-4. [Right Outer Compartment](#right-outer-compartment)
-5. [Left Outer Compartment](#left-outer-compartment)
-6. [Main Back Compartment](#main-back-compartment)
-7. [Main Front Compartment](#main-front-compartment)
-8. [Top Compartment](#top-compartment)
-9. [Right Inner Slot](#right-inner-slot)
-10. [Left Inner Slot](#left-inner-slot)
+1.  [Todo](#todo)
+2.  [Organizational Tools](#organization-tools)
+3.  [Backpack Selection](#backpack-and-storage)
+4.  [Front Compartment](#front-compartment)
+5.  [Right Outer Compartment](#right-outer-compartment)
+6.  [Left Outer Compartment](#left-outer-compartment)
+7.  [Main Back Compartment](#main-back-compartment)
+8.  [Main Front Compartment](#main-front-compartment)
+9.  [Top Compartment](#top-compartment)
+10. [Right Inner Slot](#right-inner-slot)
+11. [Left Inner Slot](#left-inner-slot)
 
 
 # Todo
@@ -21,11 +21,13 @@ This is a guide on making the perfect bugout backpack for camping or any emergen
 # Organizational Tools
 Throughout this guide I will use a combination of items to organize and protect the e    quipment on the list.  This includes:
 - Twist Ties
+- Plastic Bendy Twist Ties
 - Soft cases
 - Soft containers
 - Shopping bags
-- Sandwich bags
+- Ziplock bags
 - Garbage bags
+- Silica Packs (To keep moisture sensitive items dry)
 
 
 # Backpack Selection
@@ -42,7 +44,6 @@ The guide will be broken up into each compartment of the backpack.  Adjust the l
 The front compartment consists of important items that are easily accessible when the pack is closed up
 
 ## Item List
-
 - Mechanical Pencils (2)
 - Ballpoint Pens (2)
 - Silver Marker (1)
@@ -77,11 +78,11 @@ Items pack into the packpack:
 
 **NOTE**: The front area is packed to allow for easy access. To maximize the volume carries, this section could be filled with additional soft items like toilet paper or packages food.
 
+
 # Right Outer Compartment
 The Right compartment consists of the zippered section on the outer right side.
 
 ## Item List
-
 - Duct Tape
 - 1 Yard Patch Cloth
 - Canvas #14 Needle
@@ -100,11 +101,11 @@ Individual Items:
 Items packed into the backpack:
 ![Screenshot of items packed in the packpack](pictures/right_outer_packed.jpg)
 
+
 # Left Outer Compartment
 The Left compartment consists of the zippered section on the outer left side. This side will not be stuffed as full due to the placement of the water bottle in the [left inner slot](#Left-Inner-Slot) later on.
 
 ## Item List
-
 - Sawyer Filter Cleaning Syringe
 - Spare Plastic Bags (3)
 - Rain Poncho
@@ -116,32 +117,94 @@ Individual Items:
 Items packed into the backpack:
 ![Screenshot of items packed in the packpack](pictures/left_outer_packed.jpg)
 
+
 # Main Back Compartment
+The main back compartment is useful for storing flat items that are not fragile
 
 ## Item List
+- Sawyer Filter Bladders (2)
+- Fast Dry Towel
+- Mini Plastic Cutting Board
+- [Lixada Camping Wood Stove](https://tinyurl.com/2jce2vh7)
 
 ## Item Pictures
+Individual Items:
+![Screenshot of each item dissasembled.](pictures/main_back_items.jpg)
+
+Items packed into the backpack:
+![Screenshot of items packed in the packpack](pictures/main_back_packed.jpg)
+
 
 # Main Front Compartment
+The main front compartment is the single largest space. I use the medium terry towel and
+lay it at the bottom of the compartment to help protect the bottom of the backpack from any
+type of puncture damage
 
 ## Item List
+- [Ryno Tuff Solar Panels](https://tinyurl.com/h69tk2pe)
+- Portable Battery Charger (Ideally one of large capacity and USB-A/C ports)
+- [Vortex Solo Monocular](https://tinyurl.com/48tutfmt)
+- [Marble Arms .22 Storage](https://tinyurl.com/288yyfdv)
+- [Portable Gun Cleaning Kit](https://tinyurl.com/3z52wt88)
+- White Terry/Hand Towel
+- [Glock eTool](https://tinyurl.com/yw9uf36x)
+- [SKEMEX Pocket Reel](https://tinyurl.com/2n4chw4p)
+- [Kelty Rain Cover](https://tinyurl.com/mv482wjx)
+- [Onn 7" Android Tablet](https://tinyurl.com/yvwmfee7) - Tablet setup is covered [here]()
+- Rand McNally Maps - Maps for home and surrounding states
+- Medical Kit - Combination of store supplies and better one-off medical items
+- [Titanium Spork](https://tinyurl.com/3nf9c6ua)
+- [Stanley Adventure Camp Cook Set](https://tinyurl.com/2p8dkmsn)
+- [Ozark Trail Stainless Steel Cup](https://tinyurl.com/4hw9rku9)
+- Thumb Plastic Thimble
+- Heavy Duty Sewing Thread
+- Bic Lighters (2)
+- Steel Magnesium Fire Starter
+- Small Can Openers (2)
+
 
 ## Item Pictures
+Individual Items:
+![Screenshot of each item dissasembled.](pictures/main_front_items.jpg)
+
+Items packed into the backpack:
+![Screenshot of items packed in the packpack](pictures/main_front_packed.jpg)
+
+**NOTE**: The main compartment can be further filled to max capacity with either soft items (like
+toilet paper) or additional sealed food supplies
+
 
 # Top Compartment
 
 ## Item List
 
 ## Item Pictures
+Individual Items:
+![Screenshot of each item dissasembled.](pictures/)
+
+Items packed into the backpack:
+![Screenshot of items packed in the packpack](pictures/)
+
 
 # Right Inner Slot
 
 ## Item List
 
 ## Item Pictures
+Individual Items:
+![Screenshot of each item dissasembled.](pictures/)
+
+Items packed into the backpack:
+![Screenshot of items packed in the packpack](pictures/)
+
 
 # Left Inner Slot
 
 ## Item List
 
 ## Item Pictures
+Individual Items:
+![Screenshot of each item dissasembled.](pictures/)
+
+Items packed into the backpack:
+![Screenshot of items packed in the packpack](pictures/)
