@@ -1,4 +1,16 @@
+# Table of Contents
 This is a guide on making the perfect bugout backpack for camping or any emergency situation. 
+
+1. [Todo](#todo)
+2. [Backpack and Storage](#backpack-and-storage)
+3. [Front Compartment](#front-compartment)
+4. [Right Outer Compartment](#right-outer-compartment)
+5. [Left Outer Compartment](#left-outer-compartment)
+6. [Main Back Compartment](#main-back-compartment)
+7. [Main Front Compartment](#main-front-compartment)
+8. [Top Compartment](#top-compartment)
+9. [Right Inner Slot](#right-inner-slot)
+10. [Left Inner Slot](#left-inner-slot)
 
 # Todo
 - [ ] Add bedding, tent, or hammock packing (mount points on backpack)
@@ -21,7 +33,7 @@ In addition to the backpack, throughout this guide I will use a combination of i
 
 The guide will be broken up into each compartment of the backpack.  Adjust the list or groups based upon your selected packpack (If you don't go with the Kelty 44)
 
-# Front compartment
+# Front Compartment
 The front compartment consists of important items that are easily accessible when the pack is closed up
 
 ## Item List
@@ -84,7 +96,7 @@ Items packed into the backpack:
 ![Screenshot of items packed in the packpack](pictures/right_outer_packed.jpg)
 
 # Left Outer Compartment
-The Left compartment consists of the zippered section on the outer left side. This side will not be stuffed as full due to the placement of the water bottle in the [left inner slot](#Left Inner Slot) later on.
+The Left compartment consists of the zippered section on the outer left side. This side will not be stuffed as full due to the placement of the water bottle in the [left inner slot](#Left-Inner-Slot) later on.
 
 ## Item List
 
