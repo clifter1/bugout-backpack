@@ -117,6 +117,7 @@ The Right compartment consists of the zippered section on the outer right side.
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/right_outer_items.jpg)
 
 Items packed into the backpack:
@@ -133,6 +134,7 @@ The Left compartment consists of the zippered section on the outer left side. Th
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/left_outer_items.jpg)
 
 Items packed into the backpack:
@@ -150,6 +152,7 @@ The main back compartment is useful for storing flat items that are not fragile
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/main_back_items.jpg)
 
 Items packed into the backpack:
@@ -186,6 +189,7 @@ type of puncture damage
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/main_front_items.jpg)
 
 Items packed into the backpack:
@@ -217,6 +221,7 @@ The top compartment holds the most used and critical day-to-day items
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/top_items.jpg)
 
 Items packed into the backpack:
@@ -232,6 +237,7 @@ Items on this side need to be contained so they do not fall through the bottom. 
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/right_inner_items.jpg)
 
 Items packed into the backpack:
@@ -247,6 +253,7 @@ Items on the left inner slot are contained by a water bottle pouch on the bottom
 
 ## Item Pictures
 Individual Items:
+
 ![Screenshot of each item dissasembled.](pictures/left_inner_items.jpg)
 
 Items packed into the backpack:
