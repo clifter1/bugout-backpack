@@ -2,7 +2,8 @@
 This is a guide on making the perfect bugout backpack for camping or any emergency situation. 
 
 1. [Todo](#todo)
-2. [Backpack and Storage](#backpack-and-storage)
+2. [Organizational Tools](#organization-tools)
+2. [Backpack Selection](#backpack-and-storage)
 3. [Front Compartment](#front-compartment)
 4. [Right Outer Compartment](#right-outer-compartment)
 5. [Left Outer Compartment](#left-outer-compartment)
@@ -12,18 +13,13 @@ This is a guide on making the perfect bugout backpack for camping or any emergen
 9. [Right Inner Slot](#right-inner-slot)
 10. [Left Inner Slot](#left-inner-slot)
 
+
 # Todo
 - [ ] Add bedding, tent, or hammock packing (mount points on backpack)
 
-# Backpack and Storage
-The core component is the selection of the best backpack. The best choice in backpack is something with hip support and buckles, multiple large pockets, and does not "stand out" when wearing (not tactical, military, Hello Kitty, neon colors, etc...
 
-For this guide, I have chosen the [Kelty Redwing 44 Tactical in Forest Green](https://tinyurl.com/25w883pa)
-
-![Screenshot of the Kelty Redwing 44 Tactical in Forest Green.](pictures/kelty_backpack.jpg)
-
-In addition to the backpack, throughout this guide I will use a combination of items to organize and protect the equipment on the list.  This includes:
-
+# Organizational Tools
+Throughout this guide I will use a combination of items to organize and protect the e    quipment on the list.  This includes:
 - Twist Ties
 - Soft cases
 - Soft containers
@@ -31,7 +27,16 @@ In addition to the backpack, throughout this guide I will use a combination of i
 - Sandwich bags
 - Garbage bags
 
+
+# Backpack Selection
+The core component is the selection of the best backpack. The best choice in backpack is something with hip support and buckles, multiple large pockets, and does not "stand out" when wearing (not tactical, military, Hello Kitty, neon colors, etc...
+
+For this guide, I have chosen the [Kelty Redwing 44 Tactical in Forest Green](https://tinyurl.com/25w883pa)
+
+![Screenshot of the Kelty Redwing 44 Tactical in Forest Green.](pictures/kelty_backpack.jpg)
+
 The guide will be broken up into each compartment of the backpack.  Adjust the list or groups based upon your selected packpack (If you don't go with the Kelty 44)
+
 
 # Front Compartment
 The front compartment consists of important items that are easily accessible when the pack is closed up
