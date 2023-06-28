@@ -53,5 +53,5 @@ Items pack in containers or bags:
 ![Screenshot of items wrapped up or bagged.](pictures/front_items.jpg)
 
 Items pack into the packpack:
-![Screenshot of items packed in the packpack](front_items_packed.jpg)
+![Screenshot of items packed in the packpack](pictures/front_items_packed.jpg)
 
