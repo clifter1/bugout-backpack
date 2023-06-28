@@ -76,7 +76,7 @@ Items pack in containers or bags:
 Items pack into the packpack:
 ![Screenshot of items packed in the packpack](pictures/front_items_packed.jpg)
 
-**NOTE**: The front area is packed to allow for easy access. To maximize the volume carries, this section could be filled with additional soft items like toilet paper or packages food.
+**NOTE**: The front area is packed to allow for easy access. To maximize the volume carries, this section could be filled with additional soft items like toilet paper or packaged [food](#food-selections).
 
 
 # Right Outer Compartment
@@ -171,7 +171,7 @@ Items packed into the backpack:
 ![Screenshot of items packed in the packpack](pictures/main_front_packed.jpg)
 
 **NOTE**: The main compartment can be further filled to max capacity with either soft items (like
-toilet paper) or additional sealed food supplies
+toilet paper) or additional sealed [food](#food-selections) supplies
 
 
 # Top Compartment
@@ -208,3 +208,15 @@ Individual Items:
 
 Items packed into the backpack:
 ![Screenshot of items packed in the packpack](pictures/)
+
+
+# Food Selections
+Below is a list of food that can be purchased that have a long shelf life, condensed, and have the highest calorie count
+
+## Item List
+- MRE's
+- Backpacker's Pantry (Walmart, REI, Academy Sports)
+
+## Item Pictures
+Sealed Meals:
+~[Screenshot of sealed full meals](pictures/food_1.jpg)
