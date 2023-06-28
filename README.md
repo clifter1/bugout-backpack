@@ -12,11 +12,12 @@ This is a guide on making the perfect bugout backpack for camping or any emergen
 9.  [Top Compartment](#top-compartment)
 10. [Right Inner Slot](#right-inner-slot)
 11. [Left Inner Slot](#left-inner-slot)
-12. [Food Selections](#food-selection)
+12. [Food Selections](#food-selections)
 
 
 # Todo
 - [ ] Add bedding, tent, or hammock packing (mount points on backpack)
+- [ ] Tablet(s) toothpaste instead of a regular tube paste?
 
 
 # Organizational Tools
@@ -176,39 +177,61 @@ toilet paper) or additional sealed [food](#food-selections) supplies
 
 
 # Top Compartment
+The top compartment holds the most used and critical day-to-day items
 
 ## Item List
+- [Aquatabs Purification Tablets](https://tinyurl.com/5cfncv5z)
+- Sawyer Water Filters (3)
+- Sawyer Filter Straws (2)
+- [BIJIA Orienteering Map Compass](https://tinyurl.com/2dnraet9)
+- Backup Compass (Simple cheap compass mounted on backpack strap
+- [ThruNite Headlamp Light](https://tinyurl.com/mw5scfa3)
+- Mosquito Net
+- Knit Cap
+- Dish Soap (Red Bottle in Ziplog Bag)
+- Half Cleaning Sponge
+- Toothpaste
+- Toothbrush
+- Floss
+- Bar Soap
+- Nail Clippers
 
 ## Item Pictures
 Individual Items:
-![Screenshot of each item dissasembled.](pictures/)
+![Screenshot of each item dissasembled.](pictures/top_items.jpg)
 
 Items packed into the backpack:
-![Screenshot of items packed in the packpack](pictures/)
+![Screenshot of items packed in the packpack](pictures/top_packed.jpg)
 
 
 # Right Inner Slot
+Items on this side need to be contained so they do not fall through the bottom. Since we packed the [Right Outer Compartment](#right-outer-compartment) combined with the main container strap, both items will not fall through
 
 ## Item List
+- [SOG Camp Axe](https://tinyurl.com/4xcjahxm)
+- Hunting Knife
 
 ## Item Pictures
 Individual Items:
-![Screenshot of each item dissasembled.](pictures/)
+![Screenshot of each item dissasembled.](pictures/right_inner_items.jpg)
 
 Items packed into the backpack:
-![Screenshot of items packed in the packpack](pictures/)
+![Screenshot of items packed in the packpack](pictures/right_inner_packed.jpg)
 
 
 # Left Inner Slot
+Items on the left inner slot are contained by a water bottle pouch on the bottom of the slot of the packpack. This will prevent a longer object from passing through.  Since we made the [Left Outer Compartment](#left-outer-compartment) not as full, the water bottle will fit snug in the slot without falling out
 
 ## Item List
+- [Agawa Boreal 21 Portable Saw](https://tinyurl.com/yt32pnd3)
+- Water Bottle
 
 ## Item Pictures
 Individual Items:
-![Screenshot of each item dissasembled.](pictures/)
+![Screenshot of each item dissasembled.](pictures/left_inner_items.jpg)
 
 Items packed into the backpack:
-![Screenshot of items packed in the packpack](pictures/)
+![Screenshot of items packed in the packpack](pictures/left_inner_packed.jpg)
 
 
 # Food Selections
@@ -220,4 +243,4 @@ Below is a list of food that can be purchased that have a long shelf life, conde
 
 ## Item Pictures
 Sealed Meals:
-~[Screenshot of sealed full meals](pictures/food_1.jpg)
+![Screenshot of sealed full meals](pictures/food_1.jpg)
