@@ -1,7 +1,7 @@
 # Table of Contents
 - [Todo](#todo)
-- [Organizational Items](#organization-tools)
-- [Backpack Selection](#backpack-and-storage)
+- [Organizational Items](#organizational-items)
+- [Backpack Selection](#backpack-selection)
 - [Front Compartment](#front-compartment)
   - [Item List](#item-list)
   - [Item Pictures](#item-pictures)
