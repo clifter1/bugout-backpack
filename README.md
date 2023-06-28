@@ -1,18 +1,34 @@
 # Table of Contents
 This is a guide on making the perfect bugout backpack for camping or any emergency situation. 
 
-1.  [Todo](#todo)
-2.  [Organizational Tools](#organization-tools)
-3.  [Backpack Selection](#backpack-and-storage)
-4.  [Front Compartment](#front-compartment)
-5.  [Right Outer Compartment](#right-outer-compartment)
-6.  [Left Outer Compartment](#left-outer-compartment)
-7.  [Main Back Compartment](#main-back-compartment)
-8.  [Main Front Compartment](#main-front-compartment)
-9.  [Top Compartment](#top-compartment)
-10. [Right Inner Slot](#right-inner-slot)
-11. [Left Inner Slot](#left-inner-slot)
-12. [Food Selections](#food-selections)
+- [Todo](#todo)
+- [Organizational Items](#organization-tools)
+- [Backpack Selection](#backpack-and-storage)
+- [Front Compartment](#front-compartment)
+  - [Item List](#item-list)
+  - [Item Pictures](#item-pictures)
+- [Right Outer Compartment](#right-outer-compartment)
+  - [Item List](#item-list-1)
+  - [Item Pictures](#item-pictures-1)
+- [Left Outer Compartment](#left-outer-compartment)
+  - [Item List](#item-list-2)
+  - [Item Pictures](#item-pictures-2)
+- [Main Back Compartment](#main-back-compartment)
+  - [Item List](#item-list-3)
+  - [Item Pictures](#item-pictures-3)
+- [Main Front Compartment](#main-front-compartment)
+  - [Item List](#item-list-4)
+  - [Item Pictures](#item-pictures-4)
+- [Top Compartment](#top-compartment)
+  - [Item List](#item-list-5)
+  - [Item Pictures](#item-pictures-5)
+- [Right Inner Slot](#right-inner-slot)
+  - [Item List](#item-list-6)
+  - [Item Pictures](#item-pictures-6)
+- [Left Inner Slot](#left-inner-slot)
+  - [Item List](#item-list-7)
+  - [Item Pictures](#item-pictures-7)
+- [Food Selections](#food-selections)
 
 
 # Todo
@@ -20,8 +36,8 @@ This is a guide on making the perfect bugout backpack for camping or any emergen
 - [ ] Tablet(s) toothpaste instead of a regular tube paste?
 
 
-# Organizational Tools
-Throughout this guide I will use a combination of items to organize and protect the e    quipment on the list.  This includes:
+# Organizational Items
+Throughout this guide I will use a combination of items to organize and protect the equipment on the list.  This includes:
 - Twist Ties
 - Plastic Bendy Twist Ties
 - Soft cases
@@ -30,6 +46,8 @@ Throughout this guide I will use a combination of items to organize and protect 
 - Ziplock bags
 - Garbage bags
 - Silica Packs (To keep moisture sensitive items dry)
+
+**Note**: Many of the above items can be found at dollar stores or leftover from shipped items. The only item I will spend money on are the plastic bendy twist ties they sell at Home Depot or hardware stores.  They are very handy for packing and for using at the camp site.
 
 
 # Backpack Selection
@@ -240,6 +258,7 @@ Below is a list of food that can be purchased that have a long shelf life, conde
 ## Item List
 - MRE's
 - Backpacker's Pantry (Walmart, REI, Academy Sports)
+- Honey Stingers (A lot of calories in a tiny snack size pouch)
 
 ## Item Pictures
 Sealed Meals:
