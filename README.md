@@ -71,6 +71,7 @@ The front compartment consists of important items that are easily accessible whe
 - [Vondior Portable Radio with NOAA](https://tinyurl.com/425xb49n)
 - [CR2032 Battery Charger](https://tinyurl.com/4a6znkfe)
 - [CR2032 Rechargable Batteries](https://tinyurl.com/3kwrbnzf)
+- [DC-DC Buck Converter Step-down Voltage Regulartor](https://tinyurl.com/29t8nn97)
 - USB-C to USB-C Cables (2)
 - USB-C to USB-A Adapters (2)
 - USB-C to lightning Cable
